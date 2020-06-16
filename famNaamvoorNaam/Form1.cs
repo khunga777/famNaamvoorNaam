@@ -15,6 +15,7 @@ namespace famNaamvoorNaam
         public Form1()
         {
             InitializeComponent();
+            //wijziging Richard 
         }
     }
 }
